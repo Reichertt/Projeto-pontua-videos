@@ -1,0 +1,11 @@
+{
+  "name": "cviniciussdias/alura-solid",
+  "autoload": {
+    "psr-4": {
+      "Alura\\Solid\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  }
+}
